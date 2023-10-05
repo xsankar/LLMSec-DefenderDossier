@@ -3,7 +3,9 @@ All things LLM Security &amp; Red Teaming Generative AI
 
 ## Those who came before me a.k.a useful links
 
-Awesome LLM https://github.com/Hannibal046/Awesome-LLM
+[Awesome LLM Red Teaming] (https://github.com/xsankar/Awesome-LLM-Red-Teaming)
+[Awesome RAG (Retrieval Augmentation/Vector DB)] (https://github.com/xsankar/Awesome-RAG)
+[Awesome LLM] (https://github.com/Hannibal046/Awesome-LLM)
 
 ---
 
