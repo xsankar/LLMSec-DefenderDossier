@@ -3,7 +3,7 @@ Awesome-LLMSec i.e., Top Portal for All things LLM Security &amp; Red Teaming Ge
 
 ## Those who came before me a.k.a useful links
 
-[LLM-RedOps-Tactics a.k.a. Awesome-LLM-Red-Teaming](https://github.com/xsankar/Awesome-LLM-Red-Teaming)
+[LLM-RedOps-Tactics a.k.a. Awesome-LLM-Red-Teaming]([https://github.com/xsankar/Awesome-LLM-Red-Teaming](https://github.com/xsankar/LLM-RedOps-Tactics))
 
 [Awesome RAG (Retrieval Augmentation/Vector DB)](https://github.com/xsankar/Awesome-RAG)
 
