@@ -1,7 +1,6 @@
-# LLMSec-DefenderDossier a.k.a. Awesome-LLMSec
-## Top Portal for All things LLM Security &amp; Red Teaming Generative AI
-
-### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
+### LLMSec-DefenderDossier a.k.a. Awesome-LLMSec
+* Top Portal for All things LLM Security &amp; Red Teaming Generative AI
+#### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 ***
 
 ## LLM Threats and Guardrails
