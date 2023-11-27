@@ -1,5 +1,5 @@
 # LLMSec-DefenderDossier a.k.a. Awesome-LLMSec
-Awesome-LLMSec i.e., Top Portal for All things LLM Security &amp; Red Teaming Generative AI
+Top Portal for All things LLM Security &amp; Red Teaming Generative AI
 ---
 
 ## LLM Threats and Guardrails
