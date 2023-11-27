@@ -1,4 +1,4 @@
-# LLM-DefenderDossier a.k.a. Awesome-LLMSec
+# LLMSec-DefenderDossier a.k.a. Awesome-LLMSec
 Awesome-LLMSec i.e., Top Portal for All things LLM Security &amp; Red Teaming Generative AI
 
 ## Those who came before me a.k.a useful links
