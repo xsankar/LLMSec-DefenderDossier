@@ -1,5 +1,6 @@
 ### LLMSec-DefenderDossier a.k.a. Awesome-LLMSec
 > Top Portal for All things LLM Security &amp; Red Teaming Generative AI
+> > [About Me](https://www.linkedin.com/in/ksankar) [Blog](https://ksankar.medium.com)
 #### _[Back to TOC](https://github.com/xsankar/Awesome-Awesome-LLM)_
 ***
 
