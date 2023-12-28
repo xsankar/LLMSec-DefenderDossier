@@ -10,9 +10,10 @@
 ***
 
 ## LLM Threats and Guardrails
-
-Threats & Guard Rails Blog https://bit.ly/3WRy1Vh
-https://github.com/cckuailong/awesome-gpt-security
+| Title | Notes |
+| :- | :- |
+| [Threats & Guard Rails Blog](https://bit.ly/3WRy1Vh) | | 
+| https://github.com/cckuailong/awesome-gpt-security | |
 
 ***
 
